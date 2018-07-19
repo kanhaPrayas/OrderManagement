@@ -1,0 +1,15 @@
+[submodule "OrderApi"]
+	path = OrderApi
+	url = https://github.com/kanhaPrayas/OrderApi.git
+[submodule "InvoiceEngine"]
+	path = InvoiceEngine
+	url = https://github.com/kanhaPrayas/InvoiceEngine.git
+[submodule "InvoiceServiceDaemon"]
+	path = InvoiceServiceDaemon
+	url = https://github.com/kanhaPrayas/InvoiceServiceDaemon.git
+[submodule "NotificationEngine"]
+	path = NotificationEngine
+	url = https://github.com/kanhaPrayas/NotificationEngine.git
+[submodule "NotificationServiceDaemon"]
+	path = NotificationServiceDaemon
+	url = https://github.com/kanhaPrayas/NotificationServiceDaemon.git
